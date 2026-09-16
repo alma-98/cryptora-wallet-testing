@@ -1,0 +1,23 @@
+{
+  "wallets": {
+    "0xb7c56C27AF6D9797ca694393f8Ce2A187d4Ee89D": {
+      "BTC": 0,
+      "USD": 10000,
+      "ETH": 0,
+      "USDT": 0,
+      "USDC": 0,
+      "TRX": 0,
+      "ETC": 0
+    },
+    "0xF31a5c88be29F533a57BbF3d821F37f27DFfF481": {
+      "BTC": 0,
+      "USD": 0,
+      "ETH": 0,
+      "USDT": 0,
+      "USDC": 0,
+      "TRX": 0,
+      "ETC": 0
+    }
+  },
+  "transactions": []
+}
