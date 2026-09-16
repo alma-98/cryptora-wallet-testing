@@ -14,7 +14,7 @@ def header(title):
 
 def asset_list():
     header("CRYPTORA ASSET LIST")
-    print(f"{\"NO\":<5}{\"SYMBOL\":<10}{\"ASSET NAME\":<25}{\"TYPE\":<20}")
+    print(f"{i:<5}{symbol:<10}{info["name"]:<25}{info["type"]:<20}")
     print("-" * 72)
     for i, (symbol, item) in enumerate(ASSETS.items(), 1):
         print(f"{i:<5}{symbol:<10}{item[\"name\"]:<25}{\"NATIVE / NO CONTRACT\":<20}")
